@@ -13,6 +13,7 @@ const NavbarCatalog = () => {
         <Navbar1 />
         <Navbar2 />
         <Navbar3 />
+        
       </div>
     </div>
   );
